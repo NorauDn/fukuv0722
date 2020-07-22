@@ -42,5 +42,10 @@ namespace fukuv0722
         {
             textBox1.Text = "-1";
         }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
